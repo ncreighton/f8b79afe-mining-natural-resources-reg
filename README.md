@@ -1,2 +1,28 @@
-# f8b79afe-mining-natural-resources-reg
-Stop risking costly fines and shutdowns with outdated spreadsheets—the Mining &amp; Natural Resources Regulatory Compliance Checklist Notion Template turns your fragmented compliance tasks into a single, automated system that flags deadlines, tracks permits, and documents every step.  This template transforms Notion into a dedicated compliance hub for
+# Mining & Natural Resources Regulatory Compliance Checklist Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe7sLh1BgaU8FG0Ved0k0G)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe7sLh1BgaU8FG0Ved0k0G)
+
